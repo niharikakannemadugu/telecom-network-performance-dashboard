@@ -44,7 +44,7 @@ This project answers:
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Dashboard.png)
 
 ---
 
